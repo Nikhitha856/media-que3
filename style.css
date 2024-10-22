@@ -1,0 +1,10 @@
+.container{
+    background-color: blue;
+    height: 500px;
+    width: 500px;
+}
+@media screen and (orientation:portrait){
+    .container{
+        background-color: red;
+    }
+}
